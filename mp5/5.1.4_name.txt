@@ -1,3 +1,0 @@
-###Solution Example: ###
-#evidencefile.txt
-suicidenote.doc

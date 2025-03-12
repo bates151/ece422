@@ -1,5 +1,0 @@
-###Solution Example: ###
-#OS X
-#10.10.4
-Ubuntu
-15.10

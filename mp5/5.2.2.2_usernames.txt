@@ -1,6 +1,0 @@
-###Solution Example: ###
-#bob
-#eve
-#eve
-alice.innocuous
-alice.innocuous

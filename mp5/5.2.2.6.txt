@@ -1,3 +1,0 @@
-###Solution Example: ###
-#filename.ext
-suicidenote.doc

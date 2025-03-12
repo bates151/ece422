@@ -1,7 +1,0 @@
-###Solution Example: ###
-#zip
-#john
-nmap
-hydra
-ssh
-scp
